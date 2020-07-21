@@ -12,4 +12,4 @@ Here's a render of the PCB (OSH-Park):
 
 ![2D render of the back pcb design](images/gbc_wp_back.png)
 
-You can get help with this project and find info on the software that runs on the ESP by joining the [Game Boy Camera Club discord server](http://bit.ly/gbccd)
+You can get help with the original project and find info on the software that runs on the ESP by joining the [Game Boy Camera Club discord server](http://bit.ly/gbccd)
