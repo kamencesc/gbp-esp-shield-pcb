@@ -6,7 +6,8 @@ Enthusiasts on the [Game Boy Camera Club discord server](http://bit.ly/gbccd) ha
 
 The board is redesigned to a nearly size of a WEMOS D1 mini. There's a pinout for an OLED from the original board but OLED shield could be used (test needed).
 
-Here's a render of the PCB:
-![2D render of the pcb design](images/render.png)
+Here's a render of the PCB (OSH-Park):
+![2D render of the front pcb design](images/gbc_wp_front.png)
+![2D render of the back pcb design](images/gbc_wp_back.png)
 
 You can get help with this project and find info on the software that runs on the ESP by joining the [Game Boy Camera Club discord server](http://bit.ly/gbccd)
