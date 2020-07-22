@@ -231,8 +231,8 @@
 <wire x1="17.768965625" y1="35.47574375" x2="18.126565625" y2="35.71684375" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
 <wire x1="18.126565625" y1="35.71684375" x2="18.564465625" y2="35.80524375" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
 <wire x1="18.564465625" y1="35.80524375" x2="24.263009375" y2="35.80524375" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
-<wire x1="24.263009375" y1="35.80524375" x2="25.3253875" y2="34.74644375" width="0.01" layer="20" curve="-89.80669" grouprefs="AAA2 FINAL-BRD"/>
-<wire x1="25.3253875" y1="34.74644375" x2="25.4273875" y2="7.165246875" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
+<wire x1="24.263009375" y1="35.80524375" x2="25.4273875" y2="34.74644375" width="0.01" layer="20" curve="-89.80669" grouprefs="AAA2 FINAL-BRD"/>
+<wire x1="25.4273875" y1="34.74644375" x2="25.4273875" y2="7.165246875" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
 <wire x1="25.4273875" y1="7.165246875" x2="24.127325" y2="5.865184375" width="0.01" layer="20" curve="-90" grouprefs="AAA2 FINAL-BRD"/>
 <wire x1="24.127325" y1="5.865184375" x2="17.85068125" y2="5.865184375" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
 <wire x1="17.85068125" y1="5.865184375" x2="17.41278125" y2="5.776775" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
@@ -258,8 +258,8 @@
 <wire x1="1.11469375" y1="5.865184375" x2="0.67679375" y2="5.953596875" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
 <wire x1="0.67679375" y1="5.953596875" x2="0.31919375" y2="6.194684375" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
 <wire x1="0.31919375" y1="6.194684375" x2="0.078103125" y2="6.552275" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
-<wire x1="0.078103125" y1="6.552275" x2="-0.01030625" y2="6.990184375" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
-<wire x1="-0.01030625" y1="6.990184375" x2="-0.116221875" y2="34.680253125" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
+<wire x1="0.078103125" y1="6.552275" x2="-0.116221875" y2="6.990184375" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
+<wire x1="-0.116221875" y1="6.990184375" x2="-0.116221875" y2="34.680253125" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
 <wire x1="-0.116221875" y1="34.680253125" x2="-0.0278125" y2="35.118153125" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
 <wire x1="-0.0278125" y1="35.118153125" x2="0.213278125" y2="35.47574375" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
 <wire x1="0.213278125" y1="35.47574375" x2="0.570878125" y2="35.71684375" width="0.01" layer="20" grouprefs="AAA2 FINAL-BRD"/>
